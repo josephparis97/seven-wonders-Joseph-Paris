@@ -1,0 +1,20 @@
+{
+  "name": "untitled1",
+  "version": "1.0.0",
+  "dependencies": {},
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mocha": "^5.2.6",
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "xo": "^0.24.0"
+  },
+  "xo": {
+    "space": 2,
+    "prettier": true
+  },
+  "compilerOptions": {
+    "types": "mocha"
+  }
+}
